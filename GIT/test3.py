@@ -1,2 +1,3 @@
-print("s")
-print("byeeeee friend")
+print("byeeeee")
+print("byeeeee")
+print("byeeeee")
