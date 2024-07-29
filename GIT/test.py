@@ -1,4 +1,4 @@
 print("SANJANA")
 print("hiii")
-print("SANJANA")
+print("byeee")
 
